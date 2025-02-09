@@ -24,4 +24,5 @@ Based on historical data analysis, this project implements a stock trading strat
 # Prerequisites
 Before running the /strategy/signals, execute the following commands at least once:
 /debug/data
+
 /debug/sample-data
